@@ -1,0 +1,6 @@
+c:\users\dawn\documents\visual studio 2012\Projects\myers_GuessTheWord\GuessTheWord\bin\Debug\GuessTheWord.exe.config
+c:\users\dawn\documents\visual studio 2012\Projects\myers_GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.csprojResolveAssemblyReference.cache
+c:\users\dawn\documents\visual studio 2012\Projects\myers_GuessTheWord\GuessTheWord\bin\Debug\GuessTheWord.exe
+c:\users\dawn\documents\visual studio 2012\Projects\myers_GuessTheWord\GuessTheWord\bin\Debug\GuessTheWord.pdb
+c:\users\dawn\documents\visual studio 2012\Projects\myers_GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.exe
+c:\users\dawn\documents\visual studio 2012\Projects\myers_GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.pdb
